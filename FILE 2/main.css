@@ -121,6 +121,7 @@ nav{
 	
 }
  .gallery{
+ padding: 10px;
   margin: 10px;
 border: 1px solid #edf1fd;
 	float:left;
